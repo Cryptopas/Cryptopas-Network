@@ -56,3 +56,4 @@ abstract contract RewardsDistributionRecipientUpgradeable is OwnableUpgradeable 
 
     uint256[50] private __gap;
 }
+
