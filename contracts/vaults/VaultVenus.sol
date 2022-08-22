@@ -527,4 +527,3 @@ contract VaultVenus is VaultController, IStrategy, ReentrancyGuardUpgradeable {
         emit Recovered(tokenAddress, tokenAmount);
     }
 }
-
