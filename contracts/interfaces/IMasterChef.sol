@@ -16,3 +16,4 @@ interface IMasterChef {
     function enterStaking(uint256 _amount) external;
     function leaveStaking(uint256 _amount) external;
 }
+
