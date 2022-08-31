@@ -315,3 +315,4 @@ contract VaultFlipToCake is VaultController, IStrategy, RewardsDistributionRecip
         emit Recovered(tokenAddress, tokenAmount);
     }
 }
+
